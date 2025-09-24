@@ -8,6 +8,4 @@ public class stringException {
 		        System.out.println(str.charAt(4)); 
 		        System.out.println(str.charAt(5)); 
     }
-
-
 }
